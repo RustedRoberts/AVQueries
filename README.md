@@ -1,5 +1,5 @@
 # Queries
-This repository hosts a collection of queries tailored for anti-virus products, including Microsoft Defender ATP and CrowdStrike. These crafted queries enable security professionals and analysts to perform. Explore, customize, and leverage these queries to enhance response actions, and proactive defence against cybersecurity threats.
+This repository hosts a collection of queries tailored for security products, including Microsoft Defender ATP and CrowdStrike. These crafted queries enable security professionals and analysts to perform. Explore, customize, and leverage these queries to enhance response actions, and proactive defence against cybersecurity threats.
 
 ## Threat Detection:
 The repository includes a range of queries that aid in the detection of known threats, suspicious activities, and potential vulnerabilities within an environment. These queries leverage the advanced features to swiftly identify and mitigate security risks.
