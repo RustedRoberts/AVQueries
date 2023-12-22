@@ -1,13 +1,13 @@
 # Queries
 This repository hosts a collection of queries tailored for security products, including Microsoft Defender ATP and CrowdStrike. These crafted queries enable security professionals and analysts to perform incodent response, threat detection, and forensic investigation actions more effectively. No environment is the same, so I encourage you to explore, customize, and leverage these queries to suit your current needs.
 
-## Threat Detection:
+## Threat Detection
 The repository includes a range of queries that aid in the detection of known threats, suspicious activities, and potential vulnerabilities within an environment. These queries leverage the advanced features to swiftly identify and mitigate security risks.
 
-## Incident Response:
+## Incident Response
 This responsitory contains queries designed to be used during an active incident to provide aid in validating and triaging potential security incidents when an alert is raised. These queries will be basic and offer more flexibility to cover as wide a range of potenital incident as possible.
 
-## Forensic Investigations:
+## Forensic Investigations
 Detailed queries assist in conducting in-depth forensic investigations. These queries enable the retrieval of crucial information related to security events, such as file modifications, process execution, network activity, and more, helping you trace the root cause of incidents.
 
 # CrowdStrike
